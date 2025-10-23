@@ -1,4 +1,4 @@
-name: deploy Lewandowsky
+name: deploy SergioAguero
 
 on:
   push:
