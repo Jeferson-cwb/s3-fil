@@ -1,4 +1,4 @@
-name: deploy RonaldoNazario
+name: deploy ronaldinhoGaucho
 
 on:
   push:
