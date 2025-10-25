@@ -1,4 +1,4 @@
-name: deploy YayaToure
+name: deploy MartinOdegaard
 
 on:
   push:
